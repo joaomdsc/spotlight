@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    overflow: auto;
+}
+
+.array img {
+    width: 192px;
+    height: 108px;
+}
+
+.single img {
+    width: 100%;
+}
