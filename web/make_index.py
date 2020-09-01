@@ -13,8 +13,8 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 # Directory where we store the Spotlight service image files
 home_path = os.getenv('HOME')
-spot_path = os.path.join(home_path, r'Spotlight\master')
-thumbs_path = os.path.join(home_path, r'Spotlight\thumbnails')
+spot_path = os.path.join(home_path, r'privé\Spotlight\master')
+thumbs_path = os.path.join(home_path, r'privé\Spotlight\thumbnails')
 
 #-------------------------------------------------------------------------------
 # resize
