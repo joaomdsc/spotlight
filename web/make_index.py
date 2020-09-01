@@ -77,7 +77,7 @@ def render_html():
     t = env.get_template('index.tmpl.html')
     s = t.render(image_array=image_array())
 
-    with open('index.html', 'w') as f:
+    with open('index.html', 'w', encoding='utf-8') as f:
         f.write(s)
 
 #===============================================================================
