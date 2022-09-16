@@ -4,6 +4,8 @@ import os
 from datetime import datetime
 from shutil import copyfile
 
+# C:\Users\joao.moreira.INV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets
+
 #-------------------------------------------------------------------------------
 # $HOME/.spot directory to store the snapshots of the assets directory
 # snap_yyyy-mm-dd_hh-mm-ss.txt
@@ -15,7 +17,7 @@ from shutil import copyfile
 #-------------------------------------------------------------------------------
 
 # Directory where the Spotlight service drops the image files
-drop_path = (r'C:\Users\joao.moreira\AppData\Local\Packages'
+drop_path = (r'C:\Users\joao.moreira.INV\AppData\Local\Packages'
     + r'\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy'
             + r'\LocalState\Assets')
 
