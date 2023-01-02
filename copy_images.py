@@ -38,8 +38,10 @@ def copy_images(dst, path):
 #===============================================================================
 
 if __name__ == '__main__':
-    dst = r'D:\joao\privé\Spotlight\master'
-    for path in [r'D:\joao\.spot']:
+    # dst = r'D:\joao\privé\Spotlight\master'
+    dst = r'C:\a\privé\Spotlight\master'
+    # for path in [r'D:\joao\.spot']:
+    for path in [r'C:\a\.spot']:
         cnt = copy_images(dst, path)
         print(f'Copied {cnt} new images from {path} to {dst}')
     

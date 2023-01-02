@@ -1,0 +1,792 @@
+Traceback (most recent call last):
+  File "c:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "c:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "c:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "C:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "C:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
+Traceback (most recent call last):
+  File "c:\a\src\py\spotlight\spotlight.py", line 116, in <module>
+    snapshot(drop_path)
+  File "c:\a\src\py\spotlight\spotlight.py", line 82, in snapshot
+    s1 = dir_snapshot(drop_path)
+  File "c:\a\src\py\spotlight\spotlight.py", line 43, in dir_snapshot
+    files = os.listdir(path)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'C:\\Users\\joao.moreira.INV\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets'
