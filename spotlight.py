@@ -74,7 +74,7 @@ def get_latest():
 #-------------------------------------------------------------------------------
 
 def snapshot(drop_path):
-    spot_path = os.path.join(os.environ['HOME'], '.spot')
+    spot_path = os.path.join(os.getenv('HOME'), '.spot')
 
     # Current time for logging and filenames
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
