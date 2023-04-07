@@ -3,7 +3,7 @@ from PIL import Image
 from shutil import copyfile
 
 def image_files(path):
-    """Spotlight image files beneath a .spot directory hierarchy.
+    """Spotlight image files beneath a spot directory hierarchy.
 
     This code assumes that there is an 'img' directory under path, and a series
     of sub-directories under 'img'. The code generates the filepaths to all the
@@ -38,8 +38,8 @@ def copy_images(dst, path):
 #===============================================================================
 
 if __name__ == '__main__':
-    dst = os.path.join(os.getenv ('HOME'), r'privé\Spotlight\master')
-    src = os.path.join(os.getenv ('HOME'), '.spot')
+    src = os.path.join(os.environ.get('localappdata'), 'spot')
+    dst = os.path.join(src, 'master')
     cnt = copy_images(dst, src)
     print(f'Copied {cnt} new images from {src} to {dst}')
     

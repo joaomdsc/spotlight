@@ -4,22 +4,21 @@ import os
 from datetime import datetime
 from shutil import copyfile
 
-# C:\Users\joao.moreira\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets
-
 #-------------------------------------------------------------------------------
-# $HOME/.spot directory to store the snapshots of the assets directory
+# %localappdata%/spot directory to store the snapshots of the assets directory
 # snap_yyyy-mm-dd_hh-mm-ss.txt
 # log.txt write an entry each time the script is run
-# img subdir: when a change is detected, all files are copied here
+# img: when a change is detected, all files are copied here
 # subdirectories named yyyy-mm-dd_hh-mm-ss
 #
-# C:\x\img\Spotlight final destination after rename (manual)
+# master: final destination after rename (manual launch of copy_images.py)
 #-------------------------------------------------------------------------------
 
 # Directory where the Spotlight service drops the image files
-drop_path = (r'C:\Users\joao.moreira\AppData\Local\Packages'
-    + r'\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy'
-            + r'\LocalState\Assets')
+local_app_data = os.environ.get('localappdata')
+asset_path = (r'Packages\Microsoft.Windows.ContentDeliveryManager'
+                  r'_cw5n1h2txyewy\LocalState\Assets')
+drop_path = os.path.join(local_app_data, asset_path)
 
 #-------------------------------------------------------------------------------
 # file_info
@@ -54,7 +53,7 @@ def dir_snapshot(path):
 
 def get_latest():
     """Get the latest snapshot that we have."""
-    path = os.path.join(os.environ['HOME'], '.spot')
+    path = os.path.join(local_app_data, 'spot')
 
     # List of snap_*.txt files, most recent one first
     files = [f for f in os.listdir(path)
@@ -74,7 +73,7 @@ def get_latest():
 #-------------------------------------------------------------------------------
 
 def snapshot(drop_path):
-    spot_path = os.path.join(os.getenv('HOME'), '.spot')
+    spot_path = os.path.join(local_app_data, 'spot')
 
     # Current time for logging and filenames
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
